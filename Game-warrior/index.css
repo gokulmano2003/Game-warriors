@@ -349,7 +349,7 @@ body {
     width: 100%;
     height: 125vh;
     background-color: aliceblue;
-    background-image: url(recent-game-bg.png);
+    background-image: url(./Assest/recent-game-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -473,7 +473,7 @@ div.desc2 .comment2 {
 .doom-section {
     width: 100%;
     height: 77vh;
-    background-image: url(/img/pattern.png);
+    background-image: url(./Assest/pattern.png);
 }
 
 .doom-section .ment {
@@ -605,7 +605,7 @@ div.desc2 .comment2 {
 .reviews-section {
     width: 100%;
     height: 130vh;
-    background-image: url(/img/review-bg.png);
+    background-image: url(./Assest/review-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -770,7 +770,7 @@ div.gall3 h5 {
 .footer-section {
     width: 100%;
     height: 100vh;
-    background-image: url(/img/pattern.png);
+    background-image: url(./Assest/pattern.png);
 }
 
 .footer-section div.imgs {
